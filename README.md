@@ -1,16 +1,21 @@
-## Hi there 👋
+# **Hi, I'm Chhavi 👋**
 
-<!--
-**chhaviinani/chhaviinani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build AI-native products.
 
-Here are some ideas to get you started:
+**Focus:** Product Taste • Prioritization • Product Strategy • AI Agents • Eval Benchmarks • Model Economics • Platform Reliability
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I work on
+
+* **First-Principles Discovery:** Uncover root user friction to validate the *why* before committing to the *what*
+* **Problem-to-Model Fit:** Scope whether a problem demands frontier LLMs, lightweight SLMs or simple deterministic code
+* **Evals & Accuracy:** Architect golden test sets to catch hallucinations and benchmark output quality before prod
+* **Trust & Fail-safes:** Implement source citations, graceful fallbacks and HITL review loops for agentic workflows
+* **Latency & Token Economics:** Optimize inference speed, compute budgets and task complexity without tanking margins
+
+---
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/chhaviinani/) • [Substack](https://cinani.substack.com/) 
