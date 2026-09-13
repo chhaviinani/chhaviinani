@@ -1,4 +1,4 @@
-### Hi, I'm Chhavi 👋
+# Chhavi Inani
 
 *They told us software was eating the world. Nobody warned us about the interface.*
 
